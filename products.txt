@@ -1,0 +1,50 @@
+[ {
+  "name" : "Chicken Leg",
+  "description" : "Enjoy a protein punch.",
+  "price" : 20.0,
+  "quantity" : 2,
+  "productID" : 5,
+  "lineSeparator" : "\r\n"
+}, {
+  "name" : "Elixir",
+  "description" : "Supercharge your tired self with a powerful potion",
+  "price" : 20.0,
+  "quantity" : 2,
+  "productID" : 7,
+  "lineSeparator" : "\r\n"
+}, {
+  "name" : "Frying Pan",
+  "description" : "Slay any attacker that comes your way.",
+  "price" : 25.0,
+  "quantity" : 7,
+  "productID" : 3,
+  "lineSeparator" : "\r\n"
+}, {
+  "name" : "Lazy Shell",
+  "description" : "Hide under it for absolute invisibility.",
+  "price" : 30.0,
+  "quantity" : 4,
+  "productID" : 2,
+  "lineSeparator" : "\r\n"
+}, {
+  "name" : "Punch Glove",
+  "description" : "Knock any foe down with a triple punch.",
+  "price" : 30.0,
+  "quantity" : 3,
+  "productID" : 4,
+  "lineSeparator" : "\r\n"
+}, {
+  "name" : "Spinach",
+  "description" : "Up your vitamins with rich greens.",
+  "price" : 20.0,
+  "quantity" : 2,
+  "productID" : 6,
+  "lineSeparator" : "\r\n"
+}, {
+  "name" : "Super Suit",
+  "description" : "Protects wearer from all types of devastation.",
+  "price" : 50.0,
+  "quantity" : 6,
+  "productID" : 1,
+  "lineSeparator" : "\r\n"
+} ]
